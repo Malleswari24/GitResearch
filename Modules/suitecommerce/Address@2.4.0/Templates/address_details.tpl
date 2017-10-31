@@ -4,7 +4,7 @@
 	provided, however, if you are an authorized user with a NetSuite account or log-in, you
 	may use this code subject to the terms that govern your access and use.
 }}
-
+<div class="newDiv"></div>
 <div class="address-details">
 	<div class="address-details-container" data-id="{{internalid}}" {{#if isManageOptionsSpecified}} data-manage="{{manageOption}}" {{/if}}>
 		<address>
